@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\StructIndexerTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D834D23E-4E65-40A7-BBE5-E8CB3C560827}|StructIndexerTask\\StructIndexerTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\structindexertask\\structindexertask\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D834D23E-4E65-40A7-BBE5-E8CB3C560827}|StructIndexerTask\\StructIndexerTask.csproj|solutionrelative:structindexertask\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D834D23E-4E65-40A7-BBE5-E8CB3C560827}|StructIndexerTask\\StructIndexerTask.csproj|c:\\users\\user\\onedrive\\desktop\\secondproject\\structindexertask\\structindexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D834D23E-4E65-40A7-BBE5-E8CB3C560827}|StructIndexerTask\\StructIndexerTask.csproj|solutionrelative:structindexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListInt.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\StructIndexerTask\\StructIndexerTask\\ListInt.cs",
+              "RelativeDocumentMoniker": "StructIndexerTask\\ListInt.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\StructIndexerTask\\StructIndexerTask\\ListInt.cs*",
+              "RelativeToolTip": "StructIndexerTask\\ListInt.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:53:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\StructIndexerTask\\StructIndexerTask\\Program.cs",
+              "RelativeDocumentMoniker": "StructIndexerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SecondProject\\StructIndexerTask\\StructIndexerTask\\Program.cs",
+              "RelativeToolTip": "StructIndexerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:52:37.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
